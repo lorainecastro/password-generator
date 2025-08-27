@@ -5,9 +5,9 @@ This tool allows users to create secure passwords of varying lengths and complex
 
 ## ✨ Features
 
-Fully responsive and mobile-friendly UI
-Password length selector (4–32 characters)
-Toggle options for:
+- Fully responsive and mobile-friendly UI
+- Password length selector (4–32 characters)
+- Toggle options for:
     ✅ Uppercase Letters
     ✅ Lowercase Letters
     ✅ Numbers
