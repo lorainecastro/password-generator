@@ -8,18 +8,18 @@ This tool allows users to create secure passwords of varying lengths and complex
 ## ✨ Features
 
 - ✅ Fully responsive and mobile-friendly UI
-- Password length selector (4–32 characters)
-- 🛠️ **Customizable password options**:
+- 📏 Adjustable password length (4–32 characters)
+- 🛠️ Customizable password options:
     - ✅ Uppercase Letters
     - ✅ Lowercase Letters
     - ✅ Numbers
     - ✅ Symbols
-- Real-time strength indicator
-- Clipboard copy button
-- Generate new password on refresh
-- Ripple animation & floating background elements
-- Light & dark mode support
-- Friendly error handling and notifications
+- 📊 Real-time strength indicator
+- 📋 Clipboard copy button
+- 🔄 Generate new password on refresh
+- ⚡ Ripple animation & floating background elements
+- 🌗 Light & dark mode support
+- 🧠 Friendly error handling and notifications
 
 ## 🚀 Live Demo
 👉 [**Try the Live Demo**](https://lorainecastro.github.io/password-generator/)
