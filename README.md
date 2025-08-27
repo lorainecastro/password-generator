@@ -10,10 +10,10 @@ This tool allows users to create secure passwords of varying lengths and complex
 - ✅ Fully responsive and mobile-friendly UI
 - 📏 Adjustable password length (4–32 characters)
 - 🛠️ Customizable password options:
-    - ✅ Uppercase Letters
-    - ✅ Lowercase Letters
-    - ✅ Numbers
-    - ✅ Symbols
+    - ✅ Uppercase Letters (A–Z)
+    - ✅ Lowercase Letters (a–z)
+    - ✅ Numbers (0–9)
+    - ✅ Symbols (!@#$%^&*)
 - 📊 Real-time strength indicator
 - 📋 Clipboard copy button
 - 🔄 Generate new password on refresh
