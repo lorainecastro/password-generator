@@ -1,11 +1,11 @@
-# 🔐 Password Generator
+# Password Generator
 
 A modern, responsive, and customizable password generator built with HTML, CSS, and JavaScript.
 This tool allows users to create secure passwords of varying lengths and complexity, with options for uppercase letters, lowercase letters, numbers, and symbols. It also includes a real-time strength meter, clipboard copy functionality, and stylish UI animations.
 
 ![Password Generator Banner](image.png)
 
-## ✨ Features
+## Features
 
 - Fully responsive and mobile-friendly UI
 - Adjustable password length (4–32 characters)
@@ -22,4 +22,4 @@ This tool allows users to create secure passwords of varying lengths and complex
 - Friendly error handling and notifications
 
 ## Live Demo
-👉 [**Try the Live Demo**](https://lorainecastro.github.io/password-generator/)
+[**Try the Live Demo**](https://lorainecastro.github.io/password-generator/)
